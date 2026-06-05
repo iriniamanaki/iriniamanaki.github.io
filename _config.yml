@@ -13,7 +13,7 @@ url: "https://iriniamanaki.github.io"
 # User settings
 username: Hello, World!
 user_title: "I'm (the website of) Irini Amanaki, a PhD student of Linguistics at NYU."
-user_description: "I study how language is acquired by children, how sentence structure interacts with meaning in context and how language relates to human cognition. My work focuses on logical language development and on how children acquire propositional attitude reports. I'm a member of the <a href='https://www.childlanguagelab.com/'>NYU Child Language Lab</a> 🦖 and I'm supervised by Ailís Cournane. Before coming to <a href='https://as.nyu.edu/departments/linguistics.html'>NYU</a>, I did my <a href='https://www.philology.uoc.gr/en/'>BA</a> and <a href='https://www.philology.uoc.gr/en/department/divisions/linguistics'>MA</a> studies at the University of Crete, where I wrote an MA thesis on 'The development of wishes in child Greek', supervised by Vina Tsakali."
+user_description: "I study how language is acquired by children, how sentence structure interacts with meaning in context and how language relates to human cognition. My work focuses on logical language development and on how children acquire propositional attitude reports. I'm a member of the <a href='https://www.childlanguagelab.com/'>NYU Child Language Lab</a> 🦖 and I'm supervised by Ailís Cournane. Before coming to <a href='https://as.nyu.edu/departments/linguistics.html'>NYU</a>, I did my BA and MA studies at the <a href='https://www.philology.uoc.gr/en/department/divisions/linguistics'>University of Crete</a>, where I wrote an MA thesis on 'The development of wishes in child Greek', supervised by Vina Tsakali."
 email: irini.amanaki@nyu.edu
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
