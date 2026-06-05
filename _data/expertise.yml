@@ -1,10 +1,9 @@
 # Expertise section below the hero (icons use Devicon classes bundled in main.css).
-intro_title: Hello!
-sections:
+intro_title: Hello
+sections: What I study
   - title: Language Acquisition
-    body: >-
+     body: >-
       how language is acquired by children
-    icons:
   
 
   - title: The syntax-pragmatics interface
@@ -12,5 +11,5 @@ sections:
       how sentence structure interacts with meaning in context
       
   - title: Semantics and Philosophy of Language
-body: >-
-how language relates to human cognition
+      body: >-
+      how language relates to human cognition
