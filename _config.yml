@@ -1,18 +1,12 @@
 # Site settings
 github_username: iriniamanaki
-title: Irini Amanaki
-description: I'm a PhD student of Linguistics at NYU.
+title: Hello, World!
+description: I'm (the website of) Irini Amanaki, a PhD student of Linguistics at NYU.
 lang: en
 social_image: /assets/favicon.png
 og_locale: en_US
 theme_color: "#1a222c"
 baseurl: ""
 url: "https://iriniamanaki.github.io"
-
-# User settings
-username: Hello, World!
-user_title: Irini Amanaki
-user_description: PhD student of Linguistics at NYU.
-email: iriniamanaki@nyu.edu
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
