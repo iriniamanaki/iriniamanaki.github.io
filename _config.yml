@@ -1,7 +1,7 @@
 # Site settings
 github_username: iriniamanaki
 title: Irini Amanaki
-description: Website of Irini Amanaki — PhD student in Linguistics at NYU.
+description: Website of Irini Amanaki — PhD student at NYU Linguistics.
 lang: en
 # Open Graph / Twitter Card image (site root path). Set site url for correct absolute URLs when sharing.
 social_image: /assets/favicon.png
