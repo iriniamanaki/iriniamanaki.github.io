@@ -1,5 +1,4 @@
 # Site settings
-github_username: iriniamanaki
 title: Irini Amanaki
 description: Website of Irini Amanaki — PhD student at NYU Linguistics.
 lang: en
@@ -11,7 +10,38 @@ url: "https://iriniamanaki.github.io"
 
 # User settings
 username: Hello, World!
-user_title: I'm (the website of) Irini Amanaki, a PhD student of Linguistics at NYU.
+user_title: PhD Student in Linguistics at NYU
+user_description: I am Irini Amanaki, a doctoral student in the Department of Linguistics at New York University. My research focuses on how language is acquired and structured.
 email: iriniamanaki@nyu.edu
+github_username: iriniamanaki
+
+# Academic CV Sections
+education_title: Education
+education:
+  - university: New York University
+    degree: PhD in Linguistics
+    time: 2024 - Present
+    details: >-
+      Specializing in language acquisition, semantics, and the syntax-pragmatics interface.
+
+  - university: [Your Previous University]
+    degree: [Your BA or MA Degree Name]
+    time: [Start Year] - [End Year]
+    details: >-
+      [Optional: Add a brief note about honors or thesis title here.]
+
+experience_title: Research & Experience
+experiences:
+  - company: New York University
+    role: Graduate Student / Researcher
+    time: 2024 - Present
+    details: >-
+      Conducting research on how children map sentence structure to contextual meaning.
+
+projects_title: Selected Work
+projects:
+  - title: "The Syntax-Pragmatics Interface in Acquisition"
+    description: "An ongoing project exploring how human cognitive architecture constraints mapping of structure to context."
+    link: "" 
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
