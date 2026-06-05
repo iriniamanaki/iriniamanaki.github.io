@@ -13,7 +13,7 @@ url: "https://iriniamanaki.github.io"
 # User settings
 username: Hello, World!
 user_title: I'm (the website of) Irini Amanaki, a PhD student of Linguistics at NYU.
-user_description: I am a PhD student in the Department of Linguistics at New York University. My research focuses on how language is acquired and structured. You can find more details in my [Curriculum Vitae here](/assets/Amanaki_CV.pdf).
+user_description: I am a PhD student in the Department of Linguistics at New York University. My research focuses on how language is acquired and structured. You can find more details in my [Curriculum Vitae here](/assets/IriniAmanaki_CV.pdf).
 email: iriniamanaki@nyu.edu
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
