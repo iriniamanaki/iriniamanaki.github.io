@@ -13,7 +13,7 @@ url: "https://iriniamanaki.github.io"
 # User settings
 username: Hello, World!
 user_title: I'm (the website of) Irini Amanaki, a PhD student of Linguistics at NYU.
-user_description: I am interested in how language is acquired by children, how sentence structure interacts with meaning in context and how language relates to human cognition. I am a member of the NYU Child Language Lab, directed by Ailís Cournane. Before coming to NYU, I did my BA and MA studies at the University of Crete, where I wrote an MA thesis on 'The development of wishes is child Greek', supervised by Vina Tsakali.
+user_description: I am interested in how language is acquired by children, how sentence structure interacts with meaning in context and how language relates to human cognition. I am a member of the NYU Child Language Lab 🦖, directed by Ailís Cournane. Before coming to NYU, I did my BA and MA studies at the University of Crete, where I wrote an MA thesis on `The development of wishes is child Greek', supervised by Vina Tsakali.
 email: iriniamanaki@nyu.edu
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
