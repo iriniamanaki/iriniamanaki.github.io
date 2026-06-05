@@ -6,15 +6,14 @@ lang: en
 social_image: /assets/favicon.png
 og_locale: en_US
 theme_color: "#1a222c"
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://iriniamanaki.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: ""
+url: "https://iriniamanaki.github.io"
 
 # User settings
-username: Mauricio Urraco
-user_description: PhD student at NYU Linguistics. I
-user_title: PhD student
+username: Irini Amanaki
+user_description: PhD student at NYU Linguistics.
+user_title: PhD student in Linguistics
 email: iriniamanaki@nyu.edu
 github_username: amanakii
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
-
