@@ -14,6 +14,6 @@ username: Irini Amanaki
 user_description: PhD student at NYU Linguistics.
 user_title: PhD student in Linguistics
 email: iriniamanaki@nyu.edu
-github_username: amanakii
+github_username: iriniamanaki
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
