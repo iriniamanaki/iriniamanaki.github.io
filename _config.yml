@@ -2,7 +2,6 @@
 title: Irini Amanaki
 description: Website of Irini Amanaki — PhD student in Linguistics at NYU.
 lang: en
-# Open Graph / Twitter Card image (site root path). Set site url for correct absolute URLs when sharing.
 social_image: /assets/favicon.png
 og_locale: en_US
 theme_color: "#1a222c"
@@ -11,7 +10,7 @@ url: "https://iriniamanaki.github.io"
 
 # User settings
 username: Hello, World!
-user_description: PhD student of Linguistics at NYU.
+user_description: I'm (the website of) Irini Amanaki, a PhD student of Linguistics at NYU.
 user_title: PhD student in Linguistics
 email: iriniamanaki@nyu.edu
 github_username: iriniamanaki
