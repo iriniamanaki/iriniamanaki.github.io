@@ -1,8 +1,8 @@
 # Expertise section below the hero (icons use Devicon classes bundled in main.css).
 
-intro_title: What I study
+intro_title: About
 
-sections_title: What I study
+sections_title: About
 
 sections:
 
@@ -10,20 +10,20 @@ sections:
 
     body: >-
 
-      You can find my CV <a href="./assets/IriniAmanaki_CV.pdf" target="_blank" style="font-weight: bold; text-decoration: underline;"> here</a>.
+      You can find my CV <a href="./assets/IriniAmanaki_CV.pdf" target="_blank" style="font-weight: bold; text-decoration: underline;">here</a>.
 
 
 
-  - title: The syntax-pragmatics interface
+  - title: Google Scholar
 
     body: >-
 
-      how sentence structure interacts with meaning in context
+      You can find my Google Scholar page <a href="https://scholar.google.com/citations?user=1dIEG6IAAAAJ&hl=en">here</a>.
 
       
 
-  - title: Semantics and Philosophy of Language
+  - title: Contact
 
     body: >-
 
-      how language relates to human cognition 
+      You can reach me at irini[dot]amanaki[at]nyu[dot]edu
