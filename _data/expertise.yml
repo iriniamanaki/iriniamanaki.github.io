@@ -3,9 +3,14 @@ intro_title: Hello!
 sections:
   - title: Language Acquisition
     body: >-
-      How do children acquire language?
+      how language is acquired by children
     icons:
   
 
   - title: The syntax-pragmatics interface
+      body: >-
+      how sentence structure interacts with meaning in context
+      
   - title: Semantics and Philosophy of Language
+body: >-
+how language relates to human cognition
