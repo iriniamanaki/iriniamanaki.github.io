@@ -13,7 +13,7 @@ url: "https://iriniamanaki.github.io"
 username: Hello, World!
 user_avatar: "/assets/avatar.jpg"
 user_title: "I'm (the website of) Irini Amanaki, a PhD student of Linguistics at NYU."
-user_description: "I study how children learn to represent and express meaning through language, and what this reveals about human development and cognition. My research focuses on logical language development and on how children learn to express and reason about thoughts, beliefs, and desires through language. I'm a member of the <a href='https://www.childlanguagelab.com/'>NYU Child Language Lab</a> 🦖 and I'm supervised by Ailís Cournane. Before coming to <a href='https://as.nyu.edu/departments/linguistics.html'>NYU</a>, I completed my BA and MA studies at the <a href='https://www.philology.uoc.gr/en/department/divisions/linguistics'>University of Crete</a>, where I wrote my MA thesis, 'The development of wishes in child Greek', supervised by Vina Tsakali."
+user_description: "I study how children understand and express meaning through language. My research focuses on logical language development and how children learn to represent mental states such as thoughts, beliefs, and desires. I'm a member of the <a href='https://www.childlanguagelab.com/'>NYU Child Language Lab</a> 🦖 and I'm supervised by Ailís Cournane. Before coming to <a href='https://as.nyu.edu/departments/linguistics.html'>NYU</a>, I completed my BA and MA studies at the <a href='https://www.philology.uoc.gr/en/department/divisions/linguistics'>University of Crete</a>, where I wrote my MA thesis, 'The development of wishes in child Greek', supervised by Vina Tsakali."
 email: irini.amanaki@nyu.edu
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
